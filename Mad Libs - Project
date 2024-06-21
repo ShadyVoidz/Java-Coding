@@ -4,40 +4,40 @@ public class MadLibs {
 	Author: Unknown
 	Date: Unknown
 	*/
-		public static void main(String[] args){
-	String
-String name1 = “James”
+	public static void main(String[] args){
 
-String adjective1 = “large”;
+		String name1 = “James”
 
-String adjective2 = “filthy”:
+		String adjective1 = “large”;
 
-String adjective3 = “bright”;
+		String adjective2 = “filthy”:
 
-string verb1 = “run”;
+		String adjective3 = “bright”;
 
-String noun1 = “table”;
+		string verb1 = “run”;
 
-String noun2 = “chair”;
+		String noun1 = “table”;
 
-String noun3 = “bottle”;
+		String noun2 = “chair”;
 
-String noun4 = “desk”:
+		String noun3 = “bottle”;
 
-String noun5 = “tiles”;
+		String noun4 = “desk”:
 
-String noun6 = “charisma”:
+		String noun5 = “tiles”;
 
-String name2 = “Jackson”
+		String noun6 = “charisma”:
 
-int number = 0;
+		String name2 = “Jackson”
 
-String place1 = “Bungendore”;
+		int number = 0;
+
+		String place1 = “Bungendore”;
 
 
-//The template for the story
-String story = “This morning “+name+” woke up feeling “+adjective1+”. ‘It is going to be a “+adjective2+” day!’ Outside, a bunch of “+noun1+”s were protesting to keep “+noun2+” in stores. They began to “+verb1+” to the rhythm of the “+noun3+”, which made all the “+noun4+”s very “+adjective3+”. Concerned, “+name1+” texted “+name2+”, who flew “+name1+” to “+place1+” and dropped “+name1+” in a puddle of frozen “+noun5+”. “+name1+” woke up in the year “+number+”, in a world where “+noun6+”s ruled the world.”;
+		//The template for the story
+		String story = “This morning “+name+” woke up feeling “+adjective1+”. ‘It is going to be a “+adjective2+” day!’ Outside, a bunch of “+noun1+”s were protesting to keep “+noun2+” in stores. They began to “+verb1+” to the rhythm of the “+noun3+”, which made all the “+noun4+”s very “+adjective3+”. Concerned, “+name1+” texted “+name2+”, who flew “+name1+” to “+place1+” and dropped “+name1+” in a puddle of frozen “+noun5+”. “+name1+” woke up in the year “+number+”, in a world where “+noun6+”s ruled the world.”;
 
-System.out.println(story);
-		}
+		System.out.println(story);
 	}
+}
