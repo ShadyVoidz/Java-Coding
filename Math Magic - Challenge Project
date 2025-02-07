@@ -1,0 +1,22 @@
+public class Magic {
+  public static void main(String[] args) {
+    
+    int myNumber = 100;
+    int magicNumber = 100;
+    
+    myNumber = myNumber * myNumber;
+
+    myNumber = myNumber + magicNumber;
+
+    myNumber = myNumber / magicNumber;
+
+    myNumber = myNumber + 17;
+
+    myNumber = myNumber - magicNumber;
+
+    myNumber = myNumber / 6;
+
+    System.out.println(myNumber);
+
+  }
+}
